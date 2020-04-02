@@ -54,4 +54,4 @@ This is a backend for a URL Shortener (a service that takes any URL and generate
 
 
 ## Many thanks to Jonatas Baldin
-He is the creator of the tutorial [How To Create a URL Shortener with Django and GraphQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-url-shortener-with-django-and-graphql)
+He is the creator of the tutorial [How To Create a URL Shortener with Django and GraphQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-url-shortener-with-django-and-graphql).
